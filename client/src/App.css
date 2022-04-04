@@ -1,0 +1,22 @@
+.div-header {
+  position: "fixed";
+  top: 0;
+}
+.carousel-images {
+  position: absolute;
+  top: 150px;
+  width: 100%;
+  background-color: gainsboro;
+}
+.div-cards {
+  background-color: darkcyan;
+  width: 100%;
+}
+
+.cards-images {
+  position: absolute;
+  top: 850px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
